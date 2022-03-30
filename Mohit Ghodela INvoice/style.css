@@ -1,0 +1,23 @@
+
+#header{
+  margin-bottom: 5%;
+}
+h1 {
+  color: #d90a2c;
+}
+
+body {
+  font-family: "poppins", sans-serif;
+  padding: 50px;
+  background-color: #1a1b1f;
+  color: white;
+}
+
+.logoImage{
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.headerInfo{
+  line-height: auto;
+}
